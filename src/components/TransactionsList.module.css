@@ -1,0 +1,11 @@
+.income{
+    border-right: 5px solid green;
+    margin-bottom: 5px;
+    border-bottom: 1px dotted #C8C8C8;
+}
+
+.expense{
+    border-right: 5px solid darkred;
+    margin-bottom: 5px;
+    border-bottom: 1px dotted #C8C8C8;
+}
